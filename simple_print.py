@@ -1,2 +1,2 @@
 # simple_print.py
-prin("Hello, GitHub!")
+print("Hello, GitHub!")
